@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Header
+![Header](https://github.com/mellgit/mellgit/blob/main/assets/image.gif)
 
 about me
 
