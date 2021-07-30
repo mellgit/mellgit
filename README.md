@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/mellgit/mellgit/blob/main/assets/image.gif)
 
-## I`m a beginner Software Engeneer
+## I'm Software Engineer
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-2D283E?style=for-the-badge&logo=python)
