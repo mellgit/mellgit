@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://github.com/mellgit/mellgit/blob/main/assets/image.gif)
+![Header](https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif)
 
 ## I'm Software Engineer
 
