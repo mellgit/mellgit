@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-![Header](https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif)
+<!-- ![Header](https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif) -->
+<p align="center">
 
+  <img width="460" height="300" src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif">
+
+</p>
+
+<br><br/>
 ## I'm Software Engineer
 
 ### Languages and tools
@@ -13,4 +19,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+
 
