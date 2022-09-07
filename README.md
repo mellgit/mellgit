@@ -1,13 +1,13 @@
-### Hi there 👋
+### 領域展延...
 
-<!-- ![Header](https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif) -->
+
 <p align="center">
 
   <img width="460" height="300" src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif">
 
 </p>
 
-<br><br/>
+
 ## I'm Software Engineer
 
 ### Languages and tools
