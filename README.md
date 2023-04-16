@@ -12,7 +12,6 @@
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-2D283E?style=for-the-badge&logo=python)
-
 ![C++](https://img.shields.io/badge/-C++-2D283E?style=for-the-badge&logo=C%2b%2b)
 
 
