@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img width="460" height="300" src="https://github.com/mellgit/mellgit/blob/main/assets/temp2.gif">
+  <img width="460" height="300" src="https://github.com/mellgit/mellgit/blob/main/assets/temp3.gif">
 
 </p>
 
