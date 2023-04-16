@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img width="460" height="300" src="https://github.com/mellgit/mellgit/blob/main/assets/temp3.gif">
+  <img width="460" height="300" src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif">
 
 </p>
 
@@ -16,7 +16,6 @@
 
 
 ### Stats
-<!-- * [Codewars](https://www.codewars.com/users/mellgit) -->
 
 ![Codewars](https://github.r2v.ch/codewars?user=mellgit&stroke=COLOR)
 
