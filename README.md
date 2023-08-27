@@ -18,12 +18,17 @@
 
 ### Stats
 
-![Codewars](https://github.r2v.ch/codewars?user=mellgit&stroke=COLOR)
+
+![Codewars](https://github.r2v.ch/codewars?user=mellgit&theme=gradient_purple_dark_by_level&hide_clan=true&top_languages=true)
+
 
 ![leetcode](https://leetcard.jacoblin.cool/mellgit?animation=true)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
