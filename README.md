@@ -1,7 +1,7 @@
 <!-- ### 領域展延... -->
 
 <p align="center">
-  <!-- <img width="920" height="600" src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif"> -->
+  <img width="920" height="600" src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif">
 </p>
 
 ### Languages and tools
