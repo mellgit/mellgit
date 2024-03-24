@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <img width="920" height="500" src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif">
-</p>
+</div>
 
-### Languages and tools
+### Languages
 
 <div align="center"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> 
