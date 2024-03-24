@@ -13,23 +13,9 @@
 
 ### Stats
 
-<!-- <p align="center"> -->
-<!--   <img width="460" height="300" src="https://github.r2v.ch/codewars?user=mellgit&theme=gradient_purple_dark_by_level&hide_clan=true&top_languages=true"> -->
-<!--   <img width="460" height="300" src="https://leetcard.jacoblin.cool/mellgit?animation=true"> -->
-<!--   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true"> -->
-<!-- </p> -->
-
 <div align="center">
   <img width="460" height="300" src="https://github.r2v.ch/codewars?user=mellgit&theme=gradient_purple_dark_by_level&hide_clan=true&top_languages=true">
   <img width="460" height="300" src="https://leetcard.jacoblin.cool/mellgit?animation=true">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellgit">
 </div>
-
-<!-- <p align="center"> -->
-<!--   <img width="460" height="300" src="https://github.r2v.ch/codewars?user=mellgit&theme=gradient_purple_dark_by_level&hide_clan=true&top_languages=true"> -->
-<!--   <img width="460" height="300" src="https://leetcard.jacoblin.cool/mellgit?animation=true"> -->
-<!--   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true"> -->
-<!-- </p> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellgit)](https://github.com/anuraghazra/github-readme-stats)
