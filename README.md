@@ -1,8 +1,8 @@
-### 領域展延...
+<!-- ### 領域展延... -->
 
 <p align="center">
   <!-- <img width="460" height="300" src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif"> -->
-  <img  src="https://github.com/mellgit/mellgit/blob/main/assets/sukuna.gif">
+  <img  src="https://github.com/mellgit/mellgit/blob/main/assets/dino.gif">
 </p>
 
 ## I'm Software Engineer
@@ -13,7 +13,7 @@
 <!-- ![Go](https://img.shields.io/badge/-Golang-2D283E?style=for-the-badge&logo=go) -->
 <!-- ![C++](https://img.shields.io/badge/-C++-2D283E?style=for-the-badge&logo=C%2b%2b) -->
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
