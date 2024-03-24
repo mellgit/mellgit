@@ -5,7 +5,7 @@
   <img  src="https://github.com/mellgit/mellgit/blob/main/assets/dino.gif">
 </p>
 
-## I'm Software Engineer
+<!-- ## I'm Software Engineer -->
 
 ### Languages and tools
 
@@ -20,10 +20,25 @@
 
 ### Stats
 
-<p align="center">
+<!-- <p align="center"> -->
+<!--   <img width="460" height="300" src="https://github.r2v.ch/codewars?user=mellgit&theme=gradient_purple_dark_by_level&hide_clan=true&top_languages=true"> -->
+<!--   <img width="460" height="300" src="https://leetcard.jacoblin.cool/mellgit?animation=true"> -->
+<!--   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true"> -->
+<!-- </p> -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img width="460" height="300" src="https://github.r2v.ch/codewars?user=mellgit&theme=gradient_purple_dark_by_level&hide_clan=true&top_languages=true">
   <img width="460" height="300" src="https://leetcard.jacoblin.cool/mellgit?animation=true">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true">
-</p>
+</div>
+
+<!-- <p align="center"> -->
+<!--   <img width="460" height="300" src="https://github.r2v.ch/codewars?user=mellgit&theme=gradient_purple_dark_by_level&hide_clan=true&top_languages=true"> -->
+<!--   <img width="460" height="300" src="https://leetcard.jacoblin.cool/mellgit?animation=true"> -->
+<!--   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true"> -->
+<!-- </p> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellgit)](https://github.com/anuraghazra/github-readme-stats)
