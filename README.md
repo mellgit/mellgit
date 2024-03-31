@@ -23,7 +23,8 @@
   <img width="49.5%" height="192x" src="https://github.r2v.ch/codewars?user=mellgit&theme=black&hide_clan=true&top_languages=true">  
   <img width="49.5%" height="192x" src="https://leetcard.jacoblin.cool/mellgit?animation=true">
   <img width="49.5%" height="192x" src="https://github-readme-stats.vercel.app/api/top-langs?username=mellgit&show_icons=true&locale=en&layout=compact">
-  <img width="49.5%" height="192x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellgit">
+  <img width="49.5%" height="192x" src="https://github-readme-stats.vercel.app/api?username=mellgit&show_icons=true">
+  <!-- <img width="49.5%" height="192x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellgit"> -->
 </div>
 
 <!---->
